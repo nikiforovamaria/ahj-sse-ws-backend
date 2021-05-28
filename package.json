@@ -4,9 +4,9 @@
   "description": "**Backend: **",
   "main": "index.js",
   "scripts": {
-    "watch": "forever -w ./src/js/server.js",
     "prestart": "npm install",
-    "start": "forever ./src/js/server.js"
+    "start": "forever ./src/js/server.js",
+    "watch": "forever -w ./src/js/server.js"
   },
   "repository": {
     "type": "git",
