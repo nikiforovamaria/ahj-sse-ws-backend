@@ -20,6 +20,7 @@
   "homepage": "https://github.com/nikiforovamaria/ahj-sse-ws-backend#readme",
   "dependencies": {
     "forever": "^3.0.4",
+    "http": "0.0.1-security",
     "http-event-stream": "^0.2.0",
     "koa": "^2.13.1",
     "koa-body": "^4.2.0",
